@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+}
+
+.file_parent{
+  text-align: center;
+  padding: 50px;
+  border: 1px solid rgb(199, 213, 225);
+  background-color: lightblue;
+}
+
